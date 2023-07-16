@@ -111,6 +111,27 @@ nav a {
     height: 800px;
     margin:auto;
 }
+#download
+{
+    border: 5px solid rgb(104, 95, 95);
+    border-style:double;
+    width: 149px; 
+    margin-top: 50px;
+    margin-left: 700px;  
+}
+button
+{
+  background-color: lightblue;
+  text-decoration: none;
+}
+#img
+{
+  text-decoration: none;
+}
+.button :hover
+{
+  background-color: red;
+}
 .large-icon
 {
     border-top-left-radius:40%;
